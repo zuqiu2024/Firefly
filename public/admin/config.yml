@@ -2,7 +2,7 @@ backend:
   name: github
   repo: zuqiu2024/Firefly
   branch: main
-  base_url: https://www.zhanxx81201.dpdns.org
+  base_url: https://zhanxx81201.dpdns.org
   auth_endpoint: /api/auth
 
 media_folder: "public/images"
