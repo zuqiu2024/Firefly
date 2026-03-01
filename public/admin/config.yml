@@ -16,5 +16,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "标题", name: "title", widget: "string" }
-      - { label: "发布日期", name: "pubDate", widget: "datetime" }
+      - { label: "发布时间", name: "published", widget: "datetime" }
+      - { label: "简介", name: "description", widget: "string" }
+      - { label: "标签", name: "tags", widget: "list" }
+      - { label: "分类", name: "category", widget: "string" }
+      - { label: "草稿", name: "draft", widget: "boolean" }
+      - { label: "封面图片", name: "image", widget: "string" }
       - { label: "正文", name: "body", widget: "markdown" }
