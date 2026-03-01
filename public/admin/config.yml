@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: zuqiu2024/Firefly
+  branch: main
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "blog"
+    label: "博客"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "日期", name: "pubDate", widget: "datetime" }
+      - { label: "正文", name: "body", widget: "markdown" }
