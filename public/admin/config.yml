@@ -2,17 +2,19 @@ backend:
   name: github
   repo: zuqiu2024/Firefly
   branch: main
+  base_url: https://zhanxx81201.dpdns.org
+  auth_endpoint: /api/auth
 
 media_folder: "public/images"
 public_folder: "/images"
 
 collections:
-  - name: "blog"
-    label: "博客"
-    folder: "src/content/blog"
+  - name: "posts"
+    label: "文章"
+    folder: "src/content/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "标题", name: "title", widget: "string" }
-      - { label: "日期", name: "pubDate", widget: "datetime" }
+      - { label: "发布日期", name: "pubDate", widget: "datetime" }
       - { label: "正文", name: "body", widget: "markdown" }
