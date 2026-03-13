@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: zuqiu2024/Firefly  # 记得修改这里
+  branch: main
+  base_url: https://www.zhanxx81201.dpdns.org # 你的域名
+  auth_endpoint: /api/auth    # 对应我们上面写的 Functions
+  
+publish_mode: editorial_workflow # 开启工作流（草稿 -> 审核 -> 发布）
+media_folder: "public/assets/images" # 图片存放路径
+public_folder: "/assets/images"
+
+collections:
+  - name: "blog"
+    label: "文章"
+    folder: "src/content/posts" # Firefly 主题默认的文章路径
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "发布日期", name: "published", widget: "datetime" }
+      - { label: "描述", name: "description", widget: "string" }
+      - { label: "封面图", name: "image", widget: "image", required: false }
+      - { label: "标签", name: "tags", widget: "list" }
+      - { label: "分类", name: "category", widget: "string" }
+      - { label: "正文", name: "body", widget: "markdown" }
