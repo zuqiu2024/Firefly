@@ -74,12 +74,12 @@ export const siteConfig: SiteConfig = {
 		// 3. 本地图片（src目录，自动优化但会增加构建时间，推荐）: { type: "image", value: "assets/images/logo.webp", alt: "Logo" }
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
-			type: "image",
-			value: "assets/images/firefly.png",
-			alt: "🍀",
+			type: "url",
+			value: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
+			alt: "Logo",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "Henan-FC",
 		// 全宽导航栏，导航栏是否占满屏幕宽度，true：占满，false：不占满
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
