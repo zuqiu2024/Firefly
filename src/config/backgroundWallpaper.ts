@@ -43,8 +43,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMQace09o8Ts5OMku1DAeR_du27xBwAAtcOaxvsf0FWQs6HjNQpr_sBAAMCAAN5AAM6BA.jpg",
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMPace06oz7gFfL4aPc-agUs8xSUZsAAtYOaxvsf0FWvtfd-RCYpv4BAAMCAAN5AAM6BA.jpg",
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMOace034MLv2McAe5kD1Gnom6AwgkAAtUOaxvsf0FWeu5R4Q3GcJ8BAAMCAAN4AAM6BA.jpg",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
+			"https://zhanxx.de5.net/file/BQACAgUAAyEGAATXRHq-AAMUace-_zrT1RaeMEZlCvge-V1cFA8AAg8cAALsf0FWJaC_1AbNy-Y6BA.jpg",
+			"https://zhanxx.de5.net/file/BQACAgUAAyEGAATXRHq-AAMTace-5jVhoiH4fhv_Ub2DcajUmPoAAg4cAALsf0FWUuH7-_BtoGA6BA.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
@@ -53,8 +53,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMQace09o8Ts5OMku1DAeR_du27xBwAAtcOaxvsf0FWQs6HjNQpr_sBAAMCAAN5AAM6BA.jpg",
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMPace06oz7gFfL4aPc-agUs8xSUZsAAtYOaxvsf0FWvtfd-RCYpv4BAAMCAAN5AAM6BA.jpg",
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMOace034MLv2McAe5kD1Gnom6AwgkAAtUOaxvsf0FWeu5R4Q3GcJ8BAAMCAAN4AAM6BA.jpg",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
+			"https://zhanxx.de5.net/file/BQACAgUAAyEGAATXRHq-AAMUace-_zrT1RaeMEZlCvge-V1cFA8AAg8cAALsf0FWJaC_1AbNy-Y6BA.jpg",
+			"https://zhanxx.de5.net/file/BQACAgUAAyEGAATXRHq-AAMTace-5jVhoiH4fhv_Ub2DcajUmPoAAg4cAALsf0FWUuH7-_BtoGA6BA.jpg",
 		],
 	},
 	// Banner模式特有配置
@@ -114,9 +114,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/users/108801776",
+				desktop: "https://www.thecfa.cn/nzgjd/index.html",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
-				mobile: "https://www.pixiv.net/users/42715864",
+				mobile: "https://www.thecfa.cn/nzgjd/index.html",
 			},
 		},
 		// 横幅导航栏配置
