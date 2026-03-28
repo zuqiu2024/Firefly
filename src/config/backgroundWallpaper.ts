@@ -40,9 +40,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// desktop: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 		desktop: [
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMQace09o8Ts5OMku1DAeR_du27xBwAAtcOaxvsf0FWQs6HjNQpr_sBAAMCAAN5AAM6BA.jpg",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMPace06oz7gFfL4aPc-agUs8xSUZsAAtYOaxvsf0FWvtfd-RCYpv4BAAMCAAN5AAM6BA.jpg",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMOace034MLv2McAe5kD1Gnom6AwgkAAtUOaxvsf0FWeu5R4Q3GcJ8BAAMCAAN4AAM6BA.jpg",
 			"assets/images/DesktopWallpaper/d5.avif",
 			"assets/images/DesktopWallpaper/d6.avif",
 		],
@@ -50,9 +50,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// mobile: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 		mobile: [
 			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMQace09o8Ts5OMku1DAeR_du27xBwAAtcOaxvsf0FWQs6HjNQpr_sBAAMCAAN5AAM6BA.jpg",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMPace06oz7gFfL4aPc-agUs8xSUZsAAtYOaxvsf0FWvtfd-RCYpv4BAAMCAAN5AAM6BA.jpg",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMOace034MLv2McAe5kD1Gnom6AwgkAAtUOaxvsf0FWeu5R4Q3GcJ8BAAMCAAN4AAM6BA.jpg",
 			"assets/images/MobileWallpaper/m5.avif",
 			"assets/images/MobileWallpaper/m6.avif",
 		],
@@ -62,7 +62,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 图片位置
 		// 支持所有CSS object-position值，如: 'top', 'center', 'bottom', 'left top', 'right bottom', '25% 75%', '10px 20px'..
 		// 如果不知道怎么配置百分百之类的配置，推荐直接使用：'center'居中，'top'顶部居中，'bottom' 底部居中，'left'左侧居中，'right'右侧居中
-		position: "0% 20%",
+		position: "center",
 
 		// 主页横幅文字
 		homeText: {
