@@ -71,7 +71,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Henan FC",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
@@ -108,9 +108,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "Henan FC -队徽 ",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "Henan FC -队徽",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
