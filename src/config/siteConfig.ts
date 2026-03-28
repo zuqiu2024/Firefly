@@ -7,10 +7,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "Henan-FC",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "Go Go Go",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
