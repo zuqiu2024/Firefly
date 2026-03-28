@@ -37,9 +37,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	 */
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
-		// desktop: "assets/images/DesktopWallpaper/d1.avif",
+		// desktop: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 			"assets/images/DesktopWallpaper/d2.avif",
 			"assets/images/DesktopWallpaper/d3.avif",
 			"assets/images/DesktopWallpaper/d4.avif",
@@ -47,9 +47,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/DesktopWallpaper/d6.avif",
 		],
 		// 移动背景图片（支持单张或多张随机）
-		// mobile: "assets/images/MobileWallpaper/m1.avif",
+		// mobile: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
+			"https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 			"assets/images/MobileWallpaper/m2.avif",
 			"assets/images/MobileWallpaper/m3.avif",
 			"assets/images/MobileWallpaper/m4.avif",
