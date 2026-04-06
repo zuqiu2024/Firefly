@@ -50,10 +50,10 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
+				name: "荣耀建业",
+				artist: "群星 / HOYO-MiX / Chevy",
+				url: "/assets/music/群星 - 荣耀建业.mp3",
+				cover: "/assets/music/covers/5a772dc8b778441fad9c5f5fd12579f4.jpeg",
 				lrc: "",
 			},
 		],
