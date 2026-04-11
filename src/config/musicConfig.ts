@@ -54,7 +54,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				artist: "群星 / HOYO-MiX / Chevy",
 				url: "/assets/music/群星 - 荣耀建业.mp3",
 				cover: "/assets/music/covers/5a772dc8b778441fad9c5f5fd12579f4.jpeg",
-				lrc: "",
+				lrc: "/assets/music/lrc/荣耀建业-河南建业队队歌 - 华语群星.lrc",
 			},
 		],
 	},
