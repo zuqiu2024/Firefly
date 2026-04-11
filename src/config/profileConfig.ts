@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "http://wpa.qq.com/msgrd?v=3&uin=1647157028&site=qq&menu=yes"target="_blank",
+			url: "http://wpa.qq.com/msgrd?v=3&uin=1647157028&site=qq&menu=yes",
 			showName: false,
 		},
 		{
