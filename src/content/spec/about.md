@@ -4,7 +4,7 @@
 
 ## 🛠️ 关于本站
 
-我并非网站的完全建设者，我是用的B站UP主，在这珍重感谢
+我并非网站的完全建设者，我是用CuteLeaf制作的博客模板，在Github有，在这珍重感谢
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
 
@@ -28,7 +28,7 @@
 
 ## 📫 联系方式
 
-如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
+如果你想和我交流技术问题，分享有趣的想法，请联系网站制作者：
 
 - 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
 - ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
