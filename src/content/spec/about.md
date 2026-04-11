@@ -28,13 +28,13 @@
 
 ## 📫 联系方式
 
-如果你想和我交流技术问题，分享有趣的想法，请联系网站制作者：
+博客模板制作者（有事别找她）：
 
 - 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
 - ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
 - 🐧 **QQ交流群：[1087127207](https://qm.qq.com/q/ZGsFa8qX2G)**
 
-如果有网站内容建议或问题，联系：
+如果有网站内容建议或问题，联系我：
 - ✉️ **Email**:
 [1647157028@qq.com]
 - 🐧 **个人QQ:
