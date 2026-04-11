@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "mqqwpa://im/chat?chat_type=private&uin=1647157028",
+			url: "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1647157028",
 			showName: false,
 		},
 		{
