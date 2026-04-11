@@ -9,7 +9,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "https://zhanxx.de5.net/file/AgACAgUAAyEGAATXRHq-AAMRace0-_Uruw2IpC9XJ9ss2zhD1CkAAtgOaxvsf0FWEHEXn6ck3WUBAAMCAAN4AAM6BA.jpg",
 
 	// 名字
-	name: "Firefly",
+	name: "Henan-FC",
 
 	// 个人签名
 	bio: "Hello, I'm Zhanxx.",
@@ -24,25 +24,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/q/ZGsFa8qX2G",
-			showName: false,
-		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "http://wpa.qq.com/msgrd?v=3&uin=1647157028&site=qq&menu=yes"target="_blank",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
-			showName: false,
-		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
+			url: "mailto:1647157028@qq.com",
 			showName: false,
 		},
 	],
