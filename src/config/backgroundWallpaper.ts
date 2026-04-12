@@ -76,12 +76,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"1989年：提前五轮夺冠，中西部首支甲A",
+				"2006年：王宇景一脚定乾坤，叩开中超大门",
+				"2007年：专治各种不服，中原军初露锋芒",
+				"2009年：夺中超季军，首获亚冠资格",
+				"2025年：队史首进足协杯决赛，勇夺亚军",
+				"加油，河南！",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
