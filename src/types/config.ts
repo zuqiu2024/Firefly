@@ -37,7 +37,7 @@ export type SiteConfig = {
 	font: FontConfig;
 
 	// 站点开始日期，用于计算运行天数
-	siteStartDate?: string; // 格式: "YYYY-MM-DD"
+	siteStartDate?: "2026-03-01"; // 格式: "YYYY-MM-DD"
 
 	// 可选：站点时区，使用 IANA 时区标识，例如 "Asia/Shanghai"、"UTC"
 	timezone?: string;
